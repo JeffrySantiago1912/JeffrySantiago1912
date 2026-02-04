@@ -23,16 +23,18 @@
 ## 🧩 Featured Projects
 
 🔹 **💈 Barber Pro**  
-A modern and professional web application for managing barbershops, built with React, Vite, TypeScript and Tailwind CSS.
-👉 [https://github.com/JeffrySantiago1912/Proyecto-Santiago](https://github.com/JeffrySantiago1912/Barber-pro)
+A modern and professional web application for managing barbershops, built with React, Vite,
+TypeScript and Tailwind CSS.👉 [https://github.com/JeffrySantiago1912/Proyecto-Santiago](https://github.com/JeffrySantiago1912/Barber-pro)
+Test url: https://jeffrysantiago1912.github.io/Barber-pro/
 
 🔹 **TicTacToe game with React**  
 Tic-tac-toe game with React
 👉 [https://github.com/JeffrySantiago1912/MiniCrud-](https://github.com/JeffrySantiago1912/Game-React)
+Test url: [https://jeffrysantiago1912.github.io/Barber-pro/](https://jeffrysantiago1912.github.io/Game-React/)
 
 🔹 **Santiago Project**  
 This is a website where you can calculate your income and expenses.
-👉 https://github.com/JeffrySantiago1912/Portafolio-master
+👉 [https://github.com/JeffrySantiago1912/Portafolio-master](https://github.com/JeffrySantiago1912/Proyecto-Santiago)
 
 ---
 
