@@ -28,13 +28,18 @@ TypeScript and Tailwind CSS.👉 [https://github.com/JeffrySantiago1912/Proyecto
 
 Test url: https://jeffrysantiago1912.github.io/Barber-pro/
 
-🔹 **TicTacToe game with React**  
+🔹 **🛡️ Escuderos - Gestión de Turnos Premium**  
+Escuderos is a modern and minimalist platform designed for the intelligent management of Sunday shifts and church services.
+
+Test url: [https://jeffrysantiago1912.github.io/Barber-pro/](https://jeffrysantiago1912.github.io/Escuderos/)
+
+🔹 ** 🎮 TicTacToe game with React**  
 Tic-tac-toe game with React
 👉 [https://github.com/JeffrySantiago1912/MiniCrud-](https://github.com/JeffrySantiago1912/Game-React)
 
 Test url: [https://jeffrysantiago1912.github.io/Barber-pro/](https://jeffrysantiago1912.github.io/Game-React/)
 
-🔹 **Santiago Project**  
+🔹 **💰 Santiago Project**  
 This is a website where you can calculate your income and expenses.
 👉 [https://github.com/JeffrySantiago1912/Portafolio-master](https://github.com/JeffrySantiago1912/Proyecto-Santiago)
 
