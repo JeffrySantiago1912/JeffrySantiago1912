@@ -1,8 +1,12 @@
-# Hi, I'm Jeffry Santiago 👋
+## Hi, I'm Jeffry Santiago 👋
 
-💻 Frontend Developer | React & TypeScript  
-🧠 Fullstack experience with C# .NET & SQL  
-🌎 Open to remote opportunities  
+💻 Frontend Developer (React, TypeScript, Next.js & Angular)
+
+🚀 4+ years building modern web applications
+
+⚙️ Backend experience with C# .NET, Java, Node.js & SQL
+
+🌎 Open to remote opportunities
 
 ---
 
@@ -14,38 +18,45 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
 ![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
 ![CSharp](https://img.shields.io/badge/C%23-000?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-000?style=flat&logo=dotnet)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=microsoftsqlserver)
-
 ---
 
 ## 🧩 Featured Projects
 
-🔹 **💈 Barber Pro**  
-A modern and professional web application for managing barbershops, built with React, Vite,
-TypeScript and Tailwind CSS.👉 [https://github.com/JeffrySantiago1912/Proyecto-Santiago](https://github.com/JeffrySantiago1912/Barber-pro)
+### 💈 BarberOSS
 
-Test url: https://jeffrysantiago1912.github.io/Barber-pro/
+A complete appointment and business management platform for barbers and stylists. Allows clients to book appointments through shared links, manage schedules, track income, and generate business reports. Built with React, TypeScript, Node.js, and SQL, and currently used by real professionals.
 
-🔹 **🛡️ Escuderos - Gestión de Turnos Premium**  
-Escuderos is a modern and minimalist platform designed for the intelligent management of Sunday shifts and church services.
+🌐 Live Demo: https://barbeross.netlify.app/
+---
 
-Test url: [https://jeffrysantiago1912.github.io/Barber-pro/](https://jeffrysantiago1912.github.io/Escuderos/)
+### 💊 Farmacia La Hoz
 
-🔹 ** 🎮 TicTacToe game with React**  
-Tic-tac-toe game with React
-👉 [https://github.com/JeffrySantiago1912/MiniCrud-](https://github.com/JeffrySantiago1912/Game-React)
+Professional pharmacy landing page focused on customer engagement and direct WhatsApp communication, making it easy for customers to request products and contact the business.
 
-Test url: [https://jeffrysantiago1912.github.io/Barber-pro/](https://jeffrysantiago1912.github.io/Game-React/)
+🌐 Live Demo: https://jeffrysantiago1912.github.io/Farmacia-LaHoz/
+---
 
-🔹 **💰 Santiago Project**  
-This is a website where you can calculate your income and expenses.
-👉 [https://github.com/JeffrySantiago1912/Portafolio-master](https://github.com/JeffrySantiago1912/Proyecto-Santiago)
+### 💊 Farmacia Maireni
 
+Custom pharmacy website designed to improve online presence and facilitate customer communication through WhatsApp.
+
+🌐 Live Demo: https://jeffrysantiago1912.github.io/Farmacia-Maireni/
+---
+
+### 🚀 AbbaTech
+
+Corporate website for my freelance software development brand, showcasing services, projects, and digital solutions for businesses.
+
+🌐 Live Demo: https://jeffrysantiago1912.github.io/AbbaTech/
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [https://linkedin.com/in/TU_LINK](https://www.linkedin.com/in/jeffry-santiago-montes-de-oca-jimenez-44908522b/)
-- Email: engineer_santiago1912@hotmail.com
+💼 LinkedIn: https://www.linkedin.com/in/jeffry-santiago-montes-de-oca-jimenez-44908522b/
+📧 Email: engineer_santiago1912@hotmail.com
+🇩🇴 📱 Phone: +1 (829) 285-1472 
+🌐 Open to Remote Opportunities
