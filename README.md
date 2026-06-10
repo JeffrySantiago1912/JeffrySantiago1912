@@ -54,9 +54,17 @@ Corporate website for my freelance software development brand, showcasing servic
 🌐 Live Demo: https://jeffrysantiago1912.github.io/AbbaTech/
 ---
 
+
 ## 📫 Contact
 
-💼 LinkedIn: https://www.linkedin.com/in/jeffry-santiago-montes-de-oca-jimenez-44908522b/
-📧 Email: engineer_santiago1912@hotmail.com
-🇩🇴 📱 Phone: +1 (829) 285-1472 
-🌐 Open to Remote Opportunities
+💼 **LinkedIn**
+https://www.linkedin.com/in/jeffry-santiago-montes-de-oca-jimenez-44908522b/
+
+📧 **Email**
+[engineer_santiago1912@hotmail.com](mailto:engineer_santiago1912@hotmail.com)
+
+🇩🇴 **Phone**
++1 (829) 285-1472
+
+🌐 **Open to Remote Opportunities**
+
