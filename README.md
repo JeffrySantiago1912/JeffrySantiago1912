@@ -12,17 +12,7 @@
 
 ## 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
-![CSharp](https://img.shields.io/badge/C%23-000?style=flat&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-000?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=microsoftsqlserver)
----
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,angular,js,nodejs,dotnet,java,postgres,git,azure)](https://skillicons.dev)
 
 ## 🧩 Featured Projects
 
