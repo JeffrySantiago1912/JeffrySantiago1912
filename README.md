@@ -1,12 +1,16 @@
 ## Hi, I'm Jeffry Santiago 👋
 
-💻 Frontend Developer (React, TypeScript, Next.js & Angular)
+💻 Full Stack Developer (React, Next.js, TypeScript, .NET & Node.js)
 
-🚀 4+ years building modern web applications
+🚀 4+ years building enterprise web applications and digital solutions
 
-⚙️ Backend experience with C# .NET, Java, Node.js & SQL
+⚙️ Experience designing Frontend, Backend, REST APIs, SQL Databases & System Integrations
 
-🌎 Open to remote opportunities
+🤖 Automation, Process Optimization & Business Solutions
+
+☁️ Azure DevOps, Git Workflows, CI/CD & Cloud Deployments
+
+🌎 Open to remote and international opportunities
 
 ---
 
