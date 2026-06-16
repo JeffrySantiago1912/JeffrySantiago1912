@@ -1,6 +1,6 @@
 ## Hi, I'm Jeffry Santiago 👋
 
-💻 Full Stack Developer (React, Next.js, TypeScript, .NET & Node.js)
+💻 Full Stack Developer (React, Next.js, TypeScript, .NET, Java & Node.js)
 
 🚀 4+ years building enterprise web applications and digital solutions
 
