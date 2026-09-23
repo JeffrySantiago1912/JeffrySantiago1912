@@ -1,4 +1,3 @@
-```markdown
 ## Hi, I'm Jeffry Santiago 👋
 
 💻 **Full Stack Developer | AI & Automation | Software Engineer**
@@ -7,11 +6,11 @@
 
 ⚙️ Experienced in **Frontend, Backend, REST APIs, Databases, System Integrations, Cloud & DevOps**.
 
-🤖 Interested in **AI, Automation, Process Optimization and Intelligent Software Solutions**, with hands-on use of **LLMs, AI agents, Cursor, ChatGPT, Claude and n8n**.
+🤖 Interested in **AI, Automation, Process Optimization and Intelligent Software Solutions**.
 
-📱 Experience building solutions across **Web, Mobile (React Native, Android, Kotlin), APIs and Business Platforms**.
+📱 Experience building solutions across **Web, Mobile, APIs and Business Platforms**.
 
-☁️ Experience with **Azure DevOps, CI/CD, Kubernetes, ArgoCD, Cloud Deployments and modern development workflows**.
+☁️ Experience with **Azure DevOps, CI/CD, Cloud Deployments and modern development workflows**.
 
 🌎 **Open to remote and international opportunities.**
 
@@ -19,7 +18,7 @@
 
 ## 🚀 Core Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,angular,js,nodejs,dotnet,java,postgres,mongodb,sql,git,azure,kubernetes,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,angular,js,nodejs,dotnet,java,postgres,sql,git,azure)](https://skillicons.dev)
 
 ### Frontend
 
@@ -35,7 +34,6 @@
 ### Backend
 
 * C# / .NET
-* ASP.NET
 * Java
 * Node.js
 * Express
@@ -43,17 +41,10 @@
 * API Integrations
 * Authentication & Business Logic
 
-### Mobile
-
-* React Native
-* Android
-* Kotlin
-
 ### Databases
 
 * SQL
 * PostgreSQL
-* MongoDB
 * Relational Database Design
 * Queries, Stored Procedures & Data Integration
 
@@ -62,8 +53,6 @@
 * Microsoft Azure
 * Azure DevOps
 * CI/CD Pipelines
-* Kubernetes
-* ArgoCD
 * Git & GitHub
 * Git Workflows
 * Cloud Deployments
@@ -76,10 +65,6 @@
 
 * AI-assisted software development
 * LLMs & Prompt Engineering
-* AI agents
-* Cursor
-* ChatGPT
-* Claude
 * AI & Automation workflows
 * n8n
 * Process Automation
@@ -107,7 +92,6 @@ Beyond my core development stack, I have experience working with different techn
 ### Other Development Experience
 
 * PHP
-* React Native
 * Android
 * Kotlin
 * SQL
@@ -229,4 +213,3 @@ https://www.linkedin.com/in/jeffry-santiago-montes-de-oca-jimenez-44908522b/
 +1 (829) 285-1472
 
 🌎 **Open to Remote & International Opportunities**
-```
